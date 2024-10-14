@@ -171,3 +171,84 @@
 
 ### **Conclusion**
 This detailed summary of the Star Connect app SRS highlights the app’s main objectives, features, and system requirements. It also addresses potential issues that may arise during development or operation. Addressing the identified gaps will ensure a more **robust, secure, and user-friendly platform**, helping you achieve the goals of high engagement and professional monetization.
+
+
+
+
+Here’s a detailed explanation of the **Non-Functional Requirements (NFRs)** outlined for the Star Connect app:
+
+---
+
+## **Non-Functional Requirements **
+
+### **1. Performance Requirements**
+These requirements ensure the app delivers a seamless experience with efficient, reliable operations. 
+
+1. **Monthly updates to expert lists:**
+   - **Meaning:**  
+     - The platform will update the list of professionals regularly (every month).
+     - This includes adding new experts, removing inactive ones, and updating availability or profile details.
+
+   - **Purpose:**  
+     - Keeps the app **relevant and up-to-date**, ensuring clients have access to the latest professionals.
+     - Ensures **high availability of experts** so users always find the services they need.
+
+   - **Impact:**  
+     - Ensures **client satisfaction** by offering a fresh, updated set of experts to interact with.
+     - Helps professionals maintain visibility and stay active in the app.
+
+2. **Auto sign-up and registration flow for smoother user onboarding:**
+   - **Meaning:**  
+     - The app will streamline the registration process by minimizing unnecessary steps.
+     - Users can quickly create accounts with email or social logins, and incomplete registrations can be resumed later.
+
+   - **Purpose:**  
+     - Reduce friction during onboarding to **increase user retention** and **conversion rates**.
+     - Provide users with a **frustration-free** experience during sign-up.
+
+   - **Impact:**  
+     - **Higher user engagement** as users don’t drop off during registration.
+     - Creates a **positive first impression** of the platform, encouraging users to explore more.
+
+---
+
+### **2. Safety Requirements**
+These requirements focus on safeguarding the app's data, transactions, and user activities.
+
+1. **Strict login controls to ensure no unauthorized access:**
+   - **Meaning:**  
+     - The app will enforce security measures, such as strong passwords and two-factor authentication (2FA), to prevent unauthorized access to user accounts.
+
+   - **Purpose:**  
+     - Protect sensitive user data (personal info, payment details).
+     - Prevent **account breaches** or unauthorized activities.
+
+   - **Impact:**  
+     - **Increases trust** in the platform by ensuring user accounts remain secure.
+     - Helps **mitigate security risks** like data breaches or account hacking.
+
+2. **Payments processed only within the app (no third-party systems):**
+   - **Meaning:**  
+     - All payments will be processed directly through the app, using **integrated payment gateways** (like credit card processors or mobile banking). External redirections to third-party platforms are not allowed.
+
+   - **Purpose:**  
+     - Provide a **seamless payment experience** and reduce user drop-off.
+     - Maintain **full control** over the payment process for enhanced security and compliance.
+
+   - **Impact:**  
+     - **Reduces security vulnerabilities** by preventing reliance on unknown third-party systems.
+     - Ensures **payment tracking and management** remain consistent within the app.
+
+3. **Separate login credentials for admins, with regular security checks:**
+   - **Meaning:**  
+     - Admins will have unique credentials to log into the backend. These credentials will be separate from regular user accounts.
+     - Regular security audits will be conducted to ensure all admin activities are monitored, and no unauthorized access occurs.
+
+   - **Purpose:**  
+     - Protect sensitive **platform operations and data** managed by the admin team.
+     - Ensure **accountability** by tracking admin actions within the system.
+
+   - **Impact:**  
+     - **Prevents unauthorized access** to administrative functions.
+     - Regular checks ensure the **system remains secure**, minimizing the risk of misuse or breaches by insiders.
+
