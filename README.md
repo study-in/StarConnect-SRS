@@ -84,7 +84,7 @@
 - **Rescheduling & Cancellation Policy:**  
   - Full refund for cancellations 24 hours before the event.
   - No refund for last-minute cancellations (under 12 hours).  
-  - Both users and professionals have unlimited rescheduling options.
+  - Both users and professionals have rescheduling options.
 
 - **Compensation Policy:**  
   - 100% response rate guarantee – refunds are given if the professional fails to respond.
@@ -102,7 +102,7 @@
 
 - **Safety Requirements:**  
   - **Strict login controls** to ensure no unauthorized access.  
-  - Payments processed only within the app (no third-party systems).  
+  - Payments are processed only within the app (no third-party systems).  
   - Separate login credentials for admins, with regular security checks.
 
 ---
